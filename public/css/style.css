@@ -332,6 +332,10 @@ a:focus {
 .section-title {
   margin-bottom: 70px;
 }
+.page-title-top-b {
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
 .section-title h2 {
   color: #223a66;
 }
