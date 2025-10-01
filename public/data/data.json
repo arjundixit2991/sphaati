@@ -1,0 +1,258 @@
+[
+  {
+    "name": "CALETIC-D3",
+    "composition": "Calcium + Vitamin D3 Tablets",
+    "type": "Tablet",
+    "packing": "10 x 15 (Blister)",
+    "price": "1080.00",
+    "image": "Caletic D3.png"
+  },
+  {
+    "name": "Para-SL-500",
+    "composition": "Paracetamol Tablets",
+    "type": "Tablet",
+    "packing": "10 x 5 x 10 (Blister)",
+    "price": "498.00",
+    "image": "Para sl.png"
+  },
+  {
+    "name": "GUARDIUM-CV-625 LB",
+    "composition": "Amoxycillin + Potassium Clavulanate + Latic Acid Bacillus Tablets",
+    "type": "Tablet",
+    "packing": "10 x 1 x 10 (Alu-Alu)",
+    "price": "2460.00",
+    "image": "Guardium CV 625 LB.png"
+  },
+  {
+    "name": "SUGARZEN-GP 2",
+    "composition": "Glimepiride + Pioglitazone + Metformin Tablets",
+    "type": "Tablet",
+    "packing": "10 x 15 (Blister)",
+    "price": "1440.00",
+    "image": "Sugarzen gp 2.png"
+  },
+  {
+    "name": "Flukazol-150",
+    "composition": "Fluconazole Tablets",
+    "type": "Tablet",
+    "packing": "10 x 5 (Monocarton)",
+    "price": "675.00",
+    "image": "FLUKAZOL 150.png"
+  },
+  {
+    "name": "Tinapar",
+    "composition": "Nimesulide + Paracetamol Tablets",
+    "type": "Tablet",
+    "packing": "25 x 2 x 10 (Golden Blister)",
+    "price": "2500.00",
+    "image": "TONAPAR.png"
+  },
+  {
+    "name": "ONX-A",
+    "composition": "Aceclofenac + Paracetamol Tablets",
+    "type": "Tablet",
+    "packing": "20 x 5 (Blister)",
+    "price": "700.00",
+    "image": "ONX A.png"
+  },
+  {
+    "name": "ONX-A",
+    "composition": "Aceclofenac + Paracetamol Tablets",
+    "type": "Tablet",
+    "packing": "10 x 10 (Alu-Alu)",
+    "price": "750.00",
+    "image": "ONX -A ALU ALU.png"
+  },
+  {
+    "name": "ONX-A",
+    "composition": "Aceclofenac + Paracetamol Tablets",
+    "type": "Tablet",
+    "packing": "10 x 10 (Blister)",
+    "price": "700.00",
+    "image": "ONX A BLISTER.png"
+  },
+  {
+    "name": "ONX-SR",
+    "composition": "Aceclofenac + Paracetamol + Serratiopeptidase Tablets",
+    "type": "Tablet",
+    "packing": "10 x 10 (Alu-Alu)",
+    "price": "950.00",
+    "image": "ONX SR.png"
+  },
+  {
+    "name": "Tinaflam-SP",
+    "composition": "Aceclofenac + Paracetamol + Serratiopeptidase Tablets",
+    "type": "Tablet",
+    "packing": "20 x 10 (Alu-Alu)",
+    "price": "2940.00",
+    "image": "TINAFLAM.png"
+  },
+  {
+    "name": "ONX-MR",
+    "composition": "Aceclofenac + Paracetamol + Chlorzoxazone Tablets",
+    "type": "Tablet",
+    "packing": "10 x 10 (Blister)",
+    "price": "650.00",
+    "image": "ONX MR.png"
+  },
+  {
+    "name": "SILVYA FORTE",
+    "composition": "Milk Thistle Extract (Silymarin) + L-ornithine + L-aspartate + Lecithin + Vitamin B-complex Suspension",
+    "type": "Syrup",
+    "packing": "200 ML",
+    "price": "237.00",
+    "image": "Silvya Forte.png"
+  },
+  {
+    "name": "HEPTASE",
+    "composition": "Cyproheptadine + Tricholine Citrate Syrup",
+    "type": "Syrup",
+    "packing": "200 ML",
+    "price": "121.00",
+    "image": "HEPTASE.png"
+  },
+  {
+    "name": "ZEPHYR-BR",
+    "composition": "Terbutaline + Bromhexine + Guaiphenesin + Menthol Syrup",
+    "type": "Syrup",
+    "packing": "100 ML",
+    "price": "107.00",
+    "image": "ZEPHYR-BR.png"
+  },
+  {
+    "name": "ZEPHYR-AGT",
+    "composition": "Ambroxol + Terbutaline + Guaiphenesin + Menthol Syrup",
+    "type": "Syrup",
+    "packing": "100 ML",
+    "price": "120.00",
+    "image": "ZEPHYR-AGT.png"
+  },
+  {
+    "name": "ZEPHYR-DXR",
+    "composition": "Dextromethorphan + Phenylephrine + Chlorpheniramine Syrup",
+    "type": "Syrup",
+    "packing": "100 ML",
+    "price": "120.00",
+    "image": "ZEPHYR-DXR.png"
+  },
+  {
+    "name": "SPHALIV 3 STAR",
+    "composition": "Liver + Enzyme + Antacid Syrup",
+    "type": "Syrup",
+    "packing": "200 ML",
+    "price": "165.00",
+    "image": "SPHALIV 3 STAR.png"
+  },
+  {
+    "name": "UTRO-SL",
+    "composition": "Uterine Syrup",
+    "type": "Syrup",
+    "packing": "300 ML",
+    "price": "265.00",
+    "image": "UTRO-SL.png"
+  },
+  {
+    "name": "Lyco-IT Q-10",
+    "composition": "Lycopene + Omega-3 Fatty Acid + Co-Enzyme Q-10 + Grape Seed Extract + Multivitamins + Multiminerals Syrup",
+    "type": "Syrup",
+    "packing": "200 ML",
+    "price": "183.00",
+    "image": "LYCO 4T.png"
+  },
+  {
+    "name": "Torch Cut",
+    "composition": "An aid to Recurrent Pregnancy Loss (RPL)",
+    "type": "Capsule / Softgel",
+    "packing": "10 x 1 x 10 (Monocarton)",
+    "price": "1920.00",
+    "image": "Torcuh Cut.png"
+  },
+  {
+    "name": "NCD FORTE",
+    "composition": "Cyanocobalamin + Lycopene + Grape Seed Extract + Green Tea Extract + Ginseng Extract + Ginkgo Biloba Extract + Garlic Extract + Amino Acids + Multivitamins + Multiminerals Softgels",
+    "type": "Capsule / Softgel",
+    "packing": "10 x 1 x 10 (Monocarton)",
+    "price": "1980.00",
+    "image": "NCD FOTR.png"
+  },
+  {
+    "name": "Vita Kraft",
+    "composition": "Multivitamins + Multiminerals + Antioxidants Softgels",
+    "type": "Capsule / Softgel",
+    "packing": "20 x 1 x 10 (Monocarton)",
+    "price": "3780.00",
+    "image": "VITA CRAFT.png"
+  },
+  {
+    "name": "Caletic 60K",
+    "composition": "Cholecalciferol Softgels",
+    "type": "Capsule / Softgel",
+    "packing": "10 x 1 x 4 (Monocarton)",
+    "price": "1120.00",
+    "image": "CALETIC 60 K.png"
+  },
+  {
+    "name": "POLOTOP DSR",
+    "composition": "Pantoprazole + Domperidone (SR) Capsules",
+    "type": "Capsule / Softgel",
+    "packing": "20 x 15 (Base Foil Printed)",
+    "price": "2700.00",
+    "image": "PLOTOP DSR.png"
+  },
+  {
+    "name": "RPR DSR",
+    "composition": "Rabeprazole (EC) + Domperidone (SR) Capsules",
+    "type": "Capsule / Softgel",
+    "packing": "20 x 15 (Base Foil Printed)",
+    "price": "4200.00",
+    "image": "RPR DSR.png"
+  },
+  {
+    "name": "RPR LS",
+    "composition": "Rabeprazole + Levosulpiride (SR) Capsules",
+    "type": "Capsule / Softgel",
+    "packing": "10 x 1 x 10 (Monocarton)",
+    "price": "1650.00",
+    "image": "RPR LS.png"
+  },
+  {
+    "name": "C-1G",
+    "composition": "Ceftriaxone Injection",
+    "type": "Injection",
+    "packing": "1 gm",
+    "price": "69.87",
+    "image": "C1G.png"
+  },
+  {
+    "name": "P-4T",
+    "composition": "Pantoprazole Injection",
+    "type": "Injection",
+    "packing": "40 mg",
+    "price": "56.50",
+    "image": "P4T.png"
+  },
+  {
+    "name": "Emic-500",
+    "composition": "Amikacin Sulphate Injection",
+    "type": "Injection",
+    "packing": "500 mg",
+    "price": "113.00",
+    "image": "EMIC 500.png"
+  },
+  {
+    "name": "TINAPAN-40",
+    "composition": "Pantoprazole Injection",
+    "type": "Injection",
+    "packing": "40 mg",
+    "price": "56.00",
+    "image": "TINAPAN 40 MG.png"
+  },
+  {
+    "name": "ACE OIL",
+    "composition": "7 Different Herbal Oils and 5 unique Natural Herbs",
+    "type": "Herbal Oil",
+    "packing": "60 ML",
+    "price": "165.00",
+    "image": ""
+  }
+]
