@@ -383,6 +383,12 @@ a:focus {
 .top-bar-info li a {
   color: #fff;
   margin-right: 20px;
+  transition: color 0.3s ease;
+}
+
+.top-bar-info li a:hover {
+  color: #e12454;
+  text-decoration: none;
 }
 
 .top-right-bar a span {
@@ -1340,6 +1346,14 @@ a:focus {
   font-size: 20px;
 }
 
+.footer-contact-block a {
+  transition: color 0.3s ease;
+}
+
+.footer-contact-block a:hover {
+  color: #e12454;
+}
+
 .footer-btm {
   border-top: 1px solid rgba(0, 0, 0, 0.06);
 }
@@ -1419,6 +1433,69 @@ a:focus {
   transition: all 0.3s;
   cursor: pointer;
   opacity: 1;
+}
+
+/* Floating WhatsApp Button */
+.whatsapp-float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 40px;
+  right: 40px;
+  background: #25D366;
+  color: #fff;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 0 5px 25px rgba(37, 211, 102, 0.5);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  animation: whatsappPulse 2s infinite;
+}
+
+.whatsapp-float:hover {
+  background: #128C7E;
+  color: #fff;
+  transform: scale(1.1);
+  box-shadow: 0 8px 30px rgba(37, 211, 102, 0.7);
+}
+
+.whatsapp-float i {
+  margin: 0;
+  line-height: 60px;
+}
+
+@keyframes whatsappPulse {
+  0%, 100% {
+    box-shadow: 0 5px 25px rgba(37, 211, 102, 0.5);
+  }
+  50% {
+    box-shadow: 0 5px 35px rgba(37, 211, 102, 0.8);
+  }
+}
+
+/* Responsive WhatsApp Button */
+@media (max-width: 768px) {
+  .whatsapp-float {
+    width: 55px;
+    height: 55px;
+    bottom: 30px;
+    right: 20px;
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 576px) {
+  .whatsapp-float {
+    width: 50px;
+    height: 50px;
+    bottom: 20px;
+    right: 15px;
+    font-size: 24px;
+  }
 }
 
 /* Portfolio Type Headers */
